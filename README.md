@@ -7,9 +7,15 @@ About The Project
 
 "                             ,by using this model client will automatically knows a detailed information of their sensor quality " 
 "                             ,so they are easily knows faulty and a good one instead of cheking all of them"
+
 "Pros                       = Qality cheking time reduced to productivity increased , "
+
 "Cons                       = Needs a proper and valid input"
+
 "Tools used for this project= Pycharm,Flask,ML algorithm such as (KNN,Magic tree)"
+
 "Input                      = sensor data from a client"
+
 "Output                     = -1 if faulty or 1 if Good "
+
 "Setup in local machine     = Need to install Pycharm IDE and run this model starts with requirement.txt"
