@@ -1,7 +1,10 @@
 About The Project
-"Application Name           = Wafer Faultdetection" 
+"Application Name           = Wafer Faultdetection"
+
 "What'a wafer and its use   = Wafer was a semiconducting meterial used in major of electronic devices in the world" 
+
 "Application of this Model  = ablitity to detect a faulty wafer using sensor data on a wafer production industry" 
+
 "                             ,by using this model client will automatically knows a detailed information of their sensor quality " 
 "                             ,so they are easily knows faulty and a good one instead of cheking all of them"
 "Pros                       = Qality cheking time reduced to productivity increased , "
