@@ -9,7 +9,7 @@ About The Project
 "                             ,by using this model client will automatically knows a detailed information of their sensor quality " 
 "                             ,so they are easily knows faulty and a good one instead of cheking all of them"
 
-"Pros                       = Qality cheking time reduced to productivity increased , "
+"Pros                       = Qality cheking time reduced and productivity increased , "
 
 "Cons                       = Needs a proper and valid input"
 
